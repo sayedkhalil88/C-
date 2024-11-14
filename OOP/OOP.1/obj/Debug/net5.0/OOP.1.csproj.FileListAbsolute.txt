@@ -1,0 +1,15 @@
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\bin\Debug\net5.0\OOP.1.exe
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\bin\Debug\net5.0\OOP.1.deps.json
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\bin\Debug\net5.0\OOP.1.runtimeconfig.json
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\bin\Debug\net5.0\OOP.1.runtimeconfig.dev.json
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\bin\Debug\net5.0\OOP.1.dll
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\bin\Debug\net5.0\OOP.1.pdb
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\OOP.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\OOP.1.AssemblyInfoInputs.cache
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\OOP.1.AssemblyInfo.cs
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\OOP.1.csproj.CoreCompileInputs.cache
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\OOP.1.dll
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\refint\OOP.1.dll
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\OOP.1.pdb
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\OOP.1.genruntimeconfig.cache
+C:\Users\SAYED\Documents\c#\OOP\OOP.1\obj\Debug\net5.0\ref\OOP.1.dll
