@@ -1,0 +1,15 @@
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\bin\Debug\net5.0\Indexer.Test.exe
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\bin\Debug\net5.0\Indexer.Test.deps.json
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\bin\Debug\net5.0\Indexer.Test.runtimeconfig.json
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\bin\Debug\net5.0\Indexer.Test.runtimeconfig.dev.json
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\bin\Debug\net5.0\Indexer.Test.dll
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\bin\Debug\net5.0\Indexer.Test.pdb
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\Indexer.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\Indexer.Test.AssemblyInfoInputs.cache
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\Indexer.Test.AssemblyInfo.cs
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\Indexer.Test.csproj.CoreCompileInputs.cache
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\Indexer.Test.dll
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\refint\Indexer.Test.dll
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\Indexer.Test.pdb
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\Indexer.Test.genruntimeconfig.cache
+C:\Users\SAYED\Documents\c#\Indexer\Indexer.Test\obj\Debug\net5.0\ref\Indexer.Test.dll
