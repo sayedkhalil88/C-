@@ -1,0 +1,15 @@
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\Array.project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\Array.project.AssemblyInfoInputs.cache
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\Array.project.AssemblyInfo.cs
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\Array.project.csproj.CoreCompileInputs.cache
+C:\Users\SAYED\Documents\c#\Array\Array.project\bin\Debug\net5.0\Array.project.exe
+C:\Users\SAYED\Documents\c#\Array\Array.project\bin\Debug\net5.0\Array.project.deps.json
+C:\Users\SAYED\Documents\c#\Array\Array.project\bin\Debug\net5.0\Array.project.runtimeconfig.json
+C:\Users\SAYED\Documents\c#\Array\Array.project\bin\Debug\net5.0\Array.project.runtimeconfig.dev.json
+C:\Users\SAYED\Documents\c#\Array\Array.project\bin\Debug\net5.0\Array.project.dll
+C:\Users\SAYED\Documents\c#\Array\Array.project\bin\Debug\net5.0\Array.project.pdb
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\Array.project.dll
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\refint\Array.project.dll
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\Array.project.pdb
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\Array.project.genruntimeconfig.cache
+C:\Users\SAYED\Documents\c#\Array\Array.project\obj\Debug\net5.0\ref\Array.project.dll
