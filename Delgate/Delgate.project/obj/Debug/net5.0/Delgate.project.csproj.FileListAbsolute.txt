@@ -1,0 +1,15 @@
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\Delgate.project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\Delgate.project.AssemblyInfoInputs.cache
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\Delgate.project.AssemblyInfo.cs
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\Delgate.project.csproj.CoreCompileInputs.cache
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\bin\Debug\net5.0\Delgate.project.exe
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\bin\Debug\net5.0\Delgate.project.deps.json
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\bin\Debug\net5.0\Delgate.project.runtimeconfig.json
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\bin\Debug\net5.0\Delgate.project.runtimeconfig.dev.json
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\bin\Debug\net5.0\Delgate.project.dll
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\bin\Debug\net5.0\Delgate.project.pdb
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\Delgate.project.dll
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\refint\Delgate.project.dll
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\Delgate.project.pdb
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\Delgate.project.genruntimeconfig.cache
+C:\Users\SAYED\Documents\c#\Delgate\Delgate.project\obj\Debug\net5.0\ref\Delgate.project.dll
